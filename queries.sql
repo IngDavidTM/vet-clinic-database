@@ -107,11 +107,6 @@ LEFT JOIN specializations ON specializations.vets_id = vets.id
 JOIN animals ON animals.id = animals_id
 WHERE animals.species_id != specializations.species_id OR specializations.species_id IS NULL;
 
-SELECT *
-FROM visits
-JOIN vets ON visits.vets_id = vets.id
-JOIN animals ON animals.id = animals_id;
-
 SELECT species.name, COUNT(species.name)
 FROM visits
 JOIN vets ON visits.vets_id = vets.id
