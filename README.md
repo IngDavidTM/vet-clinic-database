@@ -125,6 +125,12 @@ not available
 - Twitter: [@David5TM](https://twitter.com/David5TM)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-david-tamayo)
 
+👤 **Fábio Vinícius Dias Lima**
+
+- GitHub: [@limavfabio](https://github.com/limavfabio)
+- Twitter: [@limavfabio](https://twitter.com/limavfabio)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/limavfabio)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
