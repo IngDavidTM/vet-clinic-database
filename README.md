@@ -31,6 +31,8 @@
 
 > I built a vet clinic database that stores information about animals.
 
+![drawSQL](https://user-images.githubusercontent.com/105117832/207374063-0718b595-e524-48dd-bee8-429db7102c6e.jpg)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
